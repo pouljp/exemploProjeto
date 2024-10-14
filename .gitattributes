@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+# Ambiente virtual Python
+venv/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE
+.idea/
+.vscode/
+
+# Arquivos de compilação Python
+*.pyc
+__pycache__/
+
+# Arquivo de configuração local
+.env
